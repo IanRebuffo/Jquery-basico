@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+.imgContainer {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
